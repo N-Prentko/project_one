@@ -1,1 +1,1 @@
-data_gov_key = "FEC_API"
+data_gov_key = "FEC_KEY"
